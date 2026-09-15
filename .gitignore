@@ -1,0 +1,21 @@
+# Environment variables / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# ChromaDB / generated vector database
+career_coach_chroma_db/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
